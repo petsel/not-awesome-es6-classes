@@ -27,6 +27,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - Instead of ES6 classes, you should consider factory functions, object composition, and/or prototypal inheritance via the use of prototypes, object literals, Object.create(), Object.assign(), etc. while avoiding constructors and the `new` keyword altogether.
 
 “If a feature is sometimes dangerous, and there is a better option, then always use the better option.” 
+
 --Douglas Crockford
 
 ## Reading
