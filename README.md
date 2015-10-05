@@ -17,7 +17,6 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 
 ## Reading
 
-- [Are ES6 classes bad for JavaScript?](https://www.quora.com/Are-ES6-classes-bad-for-JavaScript)
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 - [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 - [Delegation vs Inheritance in JavaScript](https://javascriptweblog.wordpress.com/2010/12/22/delegation-vs-inheritance-in-javascript)
