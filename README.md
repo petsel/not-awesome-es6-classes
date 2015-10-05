@@ -7,7 +7,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Too Long; Didn't Read (Summary)](#tldr)
+- [Too Long; Didn't Read](#tldr)
 - [Reading](#reading)
 - [Videos](#videos)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -17,7 +17,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 
 While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they might not actually need class syntax in JavaScript.
 
-## TLDR (Summary)
+## TLDR
 
 - JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming).
 - Many believe prototypal inheritance to be more flexible and freeing than classical inheritance due to its less rigid nature.
