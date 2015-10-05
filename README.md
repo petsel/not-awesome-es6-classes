@@ -2,7 +2,7 @@
 
 A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome
 
-Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://github.com/sindresorhus/awesome) and [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://github.com/sindresorhus/awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript), [Awesome React](https://github.com/enaqx/awesome-react), [Awesome Go](https://github.com/avelino/awesome-go), [Awesome Elm](https://github.com/isRuslan/awesome-elm), etc.
 
 ## Table of Contents
 
