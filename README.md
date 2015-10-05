@@ -7,6 +7,7 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [TL;DR](#tl;dr)
 - [Reading](#reading)
 - [Videos](#videos)
 - [License](#license)
@@ -14,6 +15,16 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 ## Introduction
 
 While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they might not actually need class syntax in JavaScript.
+
+## TL;DR
+
+- JavaScript is a class-free, object-oriented programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming).
+- Many believe prototypal inheritance to be more flexible and freeing than classical inheritance due to its less rigid nature.
+- The ES6 class syntax, constructors, the `new` keyword, etc. are ideas taken from the classical inheritance model to make programmers coming from languages like C++, Java, C#, etc. more comfortable and do not really belong in JavaScript.
+- While prototypal inheritance is very powerful in its own right, there is a growing movement among developers, both within and outside of JavaScript (Ex: [Golang](https://talks.golang.org/2012/splash.article#TOC_15.), to shift away from inheritance in favor of object composition. 
+- ES6 class syntax is essentially syntactic sugar that will end up obfuscating the true nature of JavaScript and confusing the next generation of programmers learning it.
+- You should consider factory functions, object composition, and/or prototypal inheritance via simply using prototypes and Object.create() while avoiding constructors and the `new` keyword altogether.
+
 
 ## Reading
 
