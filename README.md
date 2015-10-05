@@ -7,16 +7,17 @@ Reverse-inspired by all of the awesome lists on GitHub, like [Awesome](https://g
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Too Long; Didn't Read](#tldr)
+- [Too Long; Didn't Read (Summary)](#tldr)
 - [Reading](#reading)
 - [Videos](#videos)
+- [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
 ## Introduction
 
 While ES6 brings several useful and syntactically pleasing new features to JavaScript, there are many people in the JS community who feel that adding class syntax to the language was a mistake. I share this sentiment, but I have encountered quite a few programmers in the wild who don't agree or simply don't seem to understand why some of us have this opinion. So, I wanted to create an online reference where people could come to learn specifically about this issue and why they might not actually need class syntax in JavaScript.
 
-## TLDR
+## TLDR (Summary)
 
 - JavaScript is a class-free, object-oriented, & functional programming language. It eschews [classical inheritance](https://en.wikipedia.org/wiki/Class-based_programming) in favor of [prototypal inheritance](https://en.wikipedia.org/wiki/Prototype-based_programming).
 - Many believe prototypal inheritance to be more flexible and freeing than classical inheritance due to its less rigid nature.
@@ -47,6 +48,19 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Fluent 2013 - Eric Elliott, "Classical Inheritance is Obsolete: How to Think in Prototypal OO"](https://www.youtube.com/watch?v=lKCCZTUx0sI)
 - [Nordic.js 2014 • Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 - [Source Decoded 3: Javascript -- Prototypes, Prototypal Inheritance done right.](https://www.youtube.com/watch?v=Yvf_kUBZmXg)
+
+# Contribution Guidelines
+
+Please, ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- Use the following format: `[Content Title](content link)`
+- Choose corresponding section (Reading, Videos, etc.) for your suggestion. 
+- New categories or improvements to the existing categorization are welcome. I would like to add a Tutorials/Examples section at some point. Feel free to get started on that if you have the time.
+- The pull request and commit should have clear and useful titles.
+- Each section's list, after your addition, should be sorted alphabetically.
 
 ## License
 
