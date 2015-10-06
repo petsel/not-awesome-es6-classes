@@ -41,6 +41,7 @@ While ES6 brings several useful and syntactically pleasing new features to JavaS
 - [Javascript OO Without Constructors](http://tobyho.com/2012/10/21/javascript-OO-without-constructors/)
 - [The Two Pillars of JavaScript -- Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [Think twice about ES6 classes](http://christianalfoni.github.io/javascript/2015/01/01/think-twice-about-classes.html)
+- [The many talents of JavaScript for generalizing Role Oriented Programming approaches like Traits and Mixins](http://peterseliger.blogspot.de/2014/04/the-many-talents-of-javascript.html#the-many-talents-of-javascript)
 
 ## Videos
 
